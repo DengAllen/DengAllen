@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Allen Deng</h1>
 <h3 align="center">Computer Engineering Student @ U Waterloo</h3>
 
-I have experience working with various programming languages and frameworks. In **Java** and **C++**, I’ve developed efficient object-oriented solutions, while **Python** has been my go-to for scripting and automation tasks. On the web development front, I’m skilled in **JavaScript** and **React**, enabling me to create dynamic and responsive user interfaces. For mobile app development, I’ve used **Flutter** along with **Hive** for local storage. I also have hands-on experience with **Figma** for UI/UX design, **MySQL** for database management, and **FastAPI** for building fast and scalable web APIs.
+I have experience working with various object-oriented languages such as **Java**, **C++**, and **Python**. On the web development front, I’m skilled in **JavaScript** and **React**, enabling me to create dynamic and responsive user interfaces. 
+
+For mobile app development, I’ve used **Flutter** along with **Hive** to create Stubook, an app with 5 star ratings with **100+** downloads. I also have hands-on experience with **Figma** for UI/UX design, **MySQL** for database management, and **FastAPI** for building fast and scalable web APIs.
 
 - 🔭 I’m currently working on [TrackSite](https://github.com/DengAllen/tracksite)
 
